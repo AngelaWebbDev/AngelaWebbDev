@@ -10,4 +10,4 @@
 - ✔️ I have experience with HTML, CSS, Javascript, Java, and Python.
 - 🌱 I’m currently learning more about web development.
 - 📫 How to reach me: angelawebb.dev@gmail.com
-- ⚡ Fun fact: I spent 4 years of my life living in Okinawa.
+<!-- ⚡ Fun fact: I spent 4 years of my life living in Okinawa. -->
