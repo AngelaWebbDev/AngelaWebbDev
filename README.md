@@ -7,7 +7,9 @@
 <!-- 🤔 I’m looking for help with increasing my skill level in Java, HTML, CSS, Javascript, and Python. -->
 <!-- 😄 Pronouns: she/her -->
 <!-- 👯 I’m interested in collaborating on GreenTech, Tech4Good, and Edtech.-->
-- ✔️ I have experience with HTML, CSS, Javascript, Java, and Python.
-- 🌱 I’m currently learning more about web development.
+- ✔️ HTML, CSS, Javascript, Java, and Python.
+- ✔️ A.S. in Software Development from Broward College
+- 🌱 Full stack development student at Coding Dojo.
 - 📫 How to reach me: angelawebb.dev@gmail.com
 <!-- ⚡ Fun fact: I spent 4 years of my life living in Okinawa. -->
+ 
