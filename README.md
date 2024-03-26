@@ -9,7 +9,7 @@
 <!-- 👯 I’m interested in collaborating on GreenTech, Tech4Good, and Edtech.-->
 - ✔️ HTML, CSS, Javascript, Java, and Python.
 - ✔️ A.S. in Software Development from Broward College
-- 🌱 Full stack development student at Coding Dojo.
+- 🌱 Completed Full Stack Development (Javascript & Python) at Coding Dojo.
 - 📫 How to reach me: angelawebb.dev@gmail.com
 <!-- ⚡ Fun fact: I spent 4 years of my life living in Okinawa. -->
  
